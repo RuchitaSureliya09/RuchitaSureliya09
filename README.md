@@ -7,6 +7,7 @@
 </div>
 
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ### 🚀 About Me
 
@@ -18,6 +19,7 @@
 - ⚡ Continuously learning through **projects, experimentation, and hands-on practice**
 - 🏷️ Pronouns: **she/her**
 
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ### 🛠️ Technical Arsenal
@@ -42,6 +44,7 @@
 </table>
 
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ### 🚀 Featured Focus & Projects
 
@@ -51,6 +54,7 @@
 | **Full-Stack Web App** | Web Development | React, Node.js, SQL | Responsive UI with modular RESTful APIs and secure data persistence. |
 | **Database Management System** | DBMS | MySQL / PostgreSQL | Normalized relational schemas, queries optimization, and indexing. |
 
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ### 📊 GitHub Stats & Analytics
@@ -67,6 +71,7 @@
 </div>
 
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ### 💡 Engineering Philosophy
 
@@ -76,6 +81,7 @@ I believe in **learning by building**, understanding the fundamentals, and turni
 
 🚀 **Learn • Build • Solve • Improve**
 
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ### 🤝 Let's Connect
