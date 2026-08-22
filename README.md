@@ -6,7 +6,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ### 🚀 About Me
 
@@ -18,7 +18,7 @@
 - ⚡ Continuously learning through **projects, experimentation, and hands-on practice**
 - 🏷️ Pronouns: **she/her**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ### 🛠️ Technical Arsenal
 
@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ### 🚀 Featured Focus & Projects
 
@@ -51,13 +51,14 @@
 | **Full-Stack Web App** | Web Development | React, Node.js, SQL | Responsive UI with modular RESTful APIs and secure data persistence. |
 | **Database Management System** | DBMS | MySQL / PostgreSQL | Normalized relational schemas, queries optimization, and indexing. |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ### 📊 GitHub Stats & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuchitaSureliya09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchitaSureliya09&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuchitaSureliya09&theme=tokyonight" width="70%" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuchitaSureliya09&theme=tokyonight" width="40%" alt="Top Languages" />
   <br /><br />
   <!-- Compact Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuchitaSureliya09&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
@@ -65,7 +66,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuchitaSureliya09&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ### 💡 Engineering Philosophy
 
@@ -75,7 +76,7 @@ I believe in **learning by building**, understanding the fundamentals, and turni
 
 🚀 **Learn • Build • Solve • Improve**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ### 🤝 Let's Connect
 
