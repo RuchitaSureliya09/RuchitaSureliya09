@@ -5,12 +5,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=BTech+CSE+Student+%40+Darshan+University" alt="Typing SVG" />
 
 </div>
-<br/>
 
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
-<br/>
+
 ### 🚀 About Me
 
 - 🎓 Currently pursuing **CSE (Computer Science & Engineering)** at Darshan University
@@ -25,7 +24,7 @@
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
-<br/>
+
 ### 🛠️ Technical Arsenal
 
 <table>
@@ -51,7 +50,6 @@
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
-<br/>
 ### 🚀 Featured Focus & Projects
 
 | Project | Focus Area | Tech Stack | Highlights |
@@ -64,7 +62,6 @@
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
-<br/>
 ### 📊 GitHub Stats & Analytics
 
 <div align="center">
@@ -82,7 +79,6 @@
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
-<br/>
 ### 💡 Engineering Philosophy
 
 > *"Languages change. Frameworks evolve. The ability to learn, adapt, and solve problems never goes out of style."*
@@ -95,7 +91,6 @@ I believe in **learning by building**, understanding the fundamentals, and turni
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
-<br/>
 ### 🤝 Let's Connect
 
 I am actively looking for **internship opportunities**, **open-source collaborations**, and technical discussions. Reach out via:
@@ -103,7 +98,6 @@ I am actively looking for **internship opportunities**, **open-source collaborat
 - 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
 - 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
 - 💻 **GitHub Discussions / PRs:** Open to collaboration!
-<br/>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=RuchitaSureliya09&label=PROFILE+VIEWS&style=flat-square&color=38BDF8" alt="Profile Views" />
