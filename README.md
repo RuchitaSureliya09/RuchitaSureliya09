@@ -86,7 +86,7 @@
 I believe in **learning by building**, understanding the fundamentals, and turning ideas into practical solutions.
 
 🚀 **Learn • Build • Solve • Improve**
-<br/>
+<br/><br/>
 
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 <hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
