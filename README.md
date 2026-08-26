@@ -96,7 +96,7 @@ I believe in **learning by building**, understanding the fundamentals, and turni
 I am actively looking for **internship opportunities**, **open-source collaborations**, and technical discussions. Reach out via:
 
 - 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+- 📧 **Email:** [ruchitasureliya1609@gmail.com](mailto:ruchitasureliya1609@gmail.com)
 - 💻 **GitHub Discussions / PRs:** Open to collaboration!
 
 <p align="right">
