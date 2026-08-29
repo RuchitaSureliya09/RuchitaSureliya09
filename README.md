@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Hi%20there%20👋,%20I'm%20Ruchita%20Sureliya&fontSize=42&fontAlignY=50&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Hi%20there%20👋,%20I'm%20Ruchita%20Sureliya&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&fontFamily=Poppins" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=BTech+CSE+Student+%40+Darshan+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Saira+Stencil+One&weight=400&size=18&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=BTech+CSE+Student+%40+Darshan+University" alt="Typing SVG" />
 
 </div>
 
