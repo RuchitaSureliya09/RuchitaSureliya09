@@ -65,12 +65,12 @@
 ### 📊 GitHub Stats & Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuchitaSureliya09&theme=tokyonight" width="75%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuchitaSureliya09&theme=tokyonight" width="70%" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuchitaSureliya09&theme=tokyonight" width="60%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuchitaSureliya09&theme=tokyonight" width="40%" alt="Top Languages" />
   <br /><br />
   <!-- Compact Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuchitaSureliya09&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuchitaSureliya09&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
   <br /><br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuchitaSureliya09&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
